@@ -1,0 +1,22 @@
+h2{
+    margin-top: 10%;
+    margin-bottom: 4%;
+}
+div{
+    color: green;
+    margin-bottom: 4%;
+}
+
+a{
+    padding-top: 10px;
+    display: block;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+td{
+    width: 300px;
+    height: 60px;
+}
